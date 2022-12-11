@@ -1,4 +1,4 @@
-# TheCompleteIntroductionToC-
+# TheCompleteIntroductionToC++
 
 This is a Udemy Course.
 I will learn C++.
