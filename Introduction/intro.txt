@@ -10,4 +10,6 @@ What will I be able to do by the end of this course:
     * Use C++ programming efficiently.
     * Learn different tips and tricks in order to be a better C++ programmer.
 
-
+The Basics of programming in C++:
+    
+    * Where can we find C++? -> videogames, operating systems DataBases, security.
