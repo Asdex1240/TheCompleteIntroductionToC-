@@ -1,0 +1,13 @@
+Goal of the course: 
+
+    * Understaning what exactly is C++.
+    * Learning how create basic applications with C++.
+    * Understaning how to work with basic and more advanced C++ features.
+
+What will I be able to do by the end of this course:
+
+    * Write and undestand lines of code to perform various tasks.
+    * Use C++ programming efficiently.
+    * Learn different tips and tricks in order to be a better C++ programmer.
+
+
