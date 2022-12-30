@@ -4,20 +4,17 @@
 using namespace std;
 
 int main(){
-
-    double a = 34; 
-    double b = 56.7;
-    double c = 95.45;
-    double d = 87.23;
-    //We can use all the basic arithmetic operators
-    double x = a/b;
-    double y = c*d;
-    double z = c+x/a+(b+c)*9;
-
-    //Exists min, max, floor, ceil, round, abs, pow, sqrt, fmod
-    double op1 = round(z);
-
-    cout<<op1<<endl;
+    string name = "Bob";
+    cout<<"Hello "<<name<<endl;
+    int val1 = 2;
+    int val2 = 12;
+    cout<<"You ate "<<min(val1, val2)<<" slices of pizza and it cost you "<<max(val1, val2)<<" dollars"<<endl;
+    string ex1 = "run";
+    int val3 = 30;
+    int val4 = 400;
+    cout<<"You have also "<<ex1<<" for about "<<min(val3, val4)<<" minutes and burned about "<<max(val3, val4)<<" calories"<<endl;
+    int val5 = 500;
+    cout<<"Your calorie intake for the day is "<<val5-val4<<" calories"<<endl;
 
     return 0;
 }
