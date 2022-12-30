@@ -1,18 +1,19 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main(){
 
-    string try1 = "a simple sentence hello world! 2 3 4" ;
-    double size2 = try1.max_size();
-    double size1 = try1.size();
-    int find1 = try1.find("simple",0);
-    try1.clear();
-
-    cout << size1 << endl;
-    cout << size2 << endl;
-    cout << find1 << endl;
+    double a = 34; 
+    double b = 56.7;
+    double c = 95.45;
+    double d = 87.23;
+    //We can use all the basic arithmetic operators
+    double x = a/b;
+    double y = c*d;
+    double z = c+x/a+(b*c)*9;
+    cout<<z<<endl;
 
     return 0;
 }
