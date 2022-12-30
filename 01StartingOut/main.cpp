@@ -12,8 +12,12 @@ int main(){
     //We can use all the basic arithmetic operators
     double x = a/b;
     double y = c*d;
-    double z = c+x/a+(b*c)*9;
-    cout<<z<<endl;
+    double z = c+x/a+(b+c)*9;
+
+    //Exists min, max, floor, ceil, round, abs, pow, sqrt, fmod
+    double op1 = round(z);
+
+    cout<<op1<<endl;
 
     return 0;
 }
