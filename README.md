@@ -3,4 +3,4 @@
 This is a Udemy Course.
 I will learn C++.
 
-Lessions completed: 7/34
+Lessions completed: 11/34
